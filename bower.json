@@ -1,0 +1,10 @@
+{
+  "name": "datatables",
+  "homepage": "http://datatables.net",
+  "authors": [
+    "SpryMedia Limited"
+  ],
+  "description": "datatables for amcat",
+  "main": "media/js/jquery.dataTables.js",
+  "license": "MIT"
+}
